@@ -1,4 +1,4 @@
-<h3 align="left">Connect with me:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satanacchio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satanacchio" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/marcoippolito2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marcoippolito2021" height="30" width="40" /></a>
